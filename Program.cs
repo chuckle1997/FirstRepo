@@ -81,19 +81,6 @@ else
     Console.WriteLine(userInput2);
 }
 
-int input5 = number;
-int result = 0;
-
-if (input5 > 0)
-{
-    result = input5 * -1;
-}
-else
-{
-    result = input5;
-}
-
-
 
 
 
